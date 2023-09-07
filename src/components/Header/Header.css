@@ -1,0 +1,29 @@
+.Navigation {
+    margin-bottom: 20px;
+}
+.Navbar{
+    background-color: #D70F64 !important; 
+}
+.Brand{
+    color: white;
+    font-size: 15px;  
+    margin-top: -15px;
+    margin-bottom: -8px;
+}
+.Brand img {
+    margin-left: 20px;
+}
+
+.NavLink {
+    text-decoration: none;
+    color: white;
+    font-size: 21px;
+   margin-right: 20px;
+}
+.mr-md-5{
+    margin-top: -10px;
+}
+
+.NavLink:hover {
+    color: wheat;
+}
